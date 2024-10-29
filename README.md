@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.starlette.io/"><img width="520px" src="https://raw.githubusercontent.com/encode/django-rest-framework/refs/heads/master/docs/img/logo.png" alt='rest_framework'></a>
+  <a href="https://www.django-rest-framework.org/"><img width="420px" src="https://raw.githubusercontent.com/encode/django-rest-framework/refs/heads/master/docs/img/logo.png" alt='rest_framework'></a>
 </p>
 <p align="center">
     <em>Web APIs for Django. 🎸</em>
@@ -262,7 +262,12 @@ Please see the [security policy][security-policy].
 
 ---
 
-<p align="center"><i>Django REST framework is <a href="https://github.com/encode/starlette/blob/master/LICENSE.md">BSD licensed</a> code.<br/>Designed & crafted with care.</i></br>&mdash; ⭐️ &mdash;</p>
+<p align="center">
+<i>Django REST framework is licensed under the
+<a href="https://github.com/encode/django-rest-framework/blob/master/LICENSE.md">BSD 3-Clause "New" or "Revised"</a> License.<br/>
+Designed & crafted with care.</i><br/>
+&mdash; 🎸 &mdash;
+</p>
 
 
 <!-- Common links -->
@@ -270,3 +275,4 @@ Please see the [security policy][security-policy].
 [image]: https://www.django-rest-framework.org/img/quickstart.png
 [docs]: https://www.django-rest-framework.org/
 [source]: https://github.com/encode/django-rest-framework
+[license]: https://github.com/encode/django-rest-framework/blob/master/LICENSE.md
