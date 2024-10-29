@@ -56,7 +56,6 @@ Some reasons you might want to use REST framework:
 
 ![Screenshot][image]
 
-
 ---
 
 ## Funding
